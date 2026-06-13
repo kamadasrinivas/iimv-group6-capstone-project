@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: Inter, system-ui, sans-serif;
+  background: #f8fafc;
+  color: #0f172a;
+}
+button {
+  border: none;
+  padding: 0.75rem 1rem;
+  border-radius: 0.75rem;
+  background: #2563eb;
+  color: white;
+  cursor: pointer;
+}
+button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}

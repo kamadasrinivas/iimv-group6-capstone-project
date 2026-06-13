@@ -1,0 +1,20 @@
+# Node
+node_modules
+npm-debug.log
+package-lock.json
+
+# Expo
+.expo
+.expo-shared
+
+# Python
+__pycache__
+*.py[cod]
+*.db
+.env
+
+# Vite
+dist
+
+# misc
+.DS_Store
